@@ -5,4 +5,4 @@ This is a machone learning repositort dedicated to collecting codes regarding al
 Curently contains 
  - EX 1
  - EX 2
- - EX3
+ - EX 3
