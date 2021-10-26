@@ -40,14 +40,6 @@ temp(1) =0;
 J = -(1/m)*sum(y.*log(sigmoid(X*theta)) + (1-y).*log(1-(sigmoid(X*theta)))) + (lambda/(2*m))*sum(temp.^2);
 
 grad = (1/m)*sum((sigmoid(X*theta) - y).*X) + ((lambda/m)*temp)';
-
-
-
-
-
-
-
-
 % =============================================================
 
 grad = grad(:);
