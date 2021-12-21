@@ -7,3 +7,8 @@ Curently contains
  - EX 2
  - EX 3
  - EX 4
+ - EX 5
+ - EX 6
+ - EX 7
+ - EX 8
+
