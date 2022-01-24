@@ -1,5 +1,5 @@
 # Octave
-
+This repo contains code writen in Octave language. These are the solutions for the Ml course by Andrew NG.
 ## Description
 This is a machine learning repositort dedicated to collecting codes regarding all the labs done in online cources.
 
